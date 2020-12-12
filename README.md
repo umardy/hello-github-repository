@@ -1,14 +1,14 @@
 ### My first repository is awesome!
 
-I'm [APRIAL] and here it's my first GitHub repository.
+I'm **APRIAL and here it's my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [HAPPY]
+> HAPPY
 
 My favorite color:
 
-> [BLUE]
+> GREEN
 
 Thank you so much for reading! ☺
